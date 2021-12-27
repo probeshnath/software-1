@@ -1,0 +1,41 @@
+.home_page {
+  background-image: linear-gradient(
+      to bottom,
+      rgb(122 122 122 / 0%),
+      rgb(0 0 0 / 73%)
+    ),
+    url(https://images.unsplash.com/photo-1524842823338-7b141b2bc8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=993&q=80);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.wrapper_home {
+  width: 100%;
+  padding: 200px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.home1 {
+  width: 600px;
+}
+
+.home2 {
+  width: 500px;
+}
+.home2 button {
+  border: none;
+  color: white;
+  background-color: green;
+  padding: 10px 25px;
+  border-radius: 10px;
+}
+.home2 h2 {
+  width: 400px;
+  font-size: 30px;
+  color: white;
+}
+.home2 p {
+  width: 464px;
+  color: white;
+  font-family: inherit;
+}

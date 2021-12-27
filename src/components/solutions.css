@@ -1,0 +1,16 @@
+.wrapper_slution {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  padding: 30px 10px;
+}
+.wrapper_slution a {
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+}
+.wrapper_slution p {
+  font-family: inherit;
+  color: #575756;
+  font-size: 15px;
+}

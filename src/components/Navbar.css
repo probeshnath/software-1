@@ -1,0 +1,35 @@
+.wrappr_nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar {
+  background: #000;
+  color: white;
+}
+.first_div {
+  display: flex;
+  align-items: center;
+}
+.first_div img {
+  width: 40px;
+  margin-right: 5px;
+}
+.second_div {
+  display: inline-flex;
+}
+.second_div li {
+  list-style: none;
+}
+.second_div li a {
+  padding: 10px 15px;
+  text-decoration: none;
+  color: white;
+}
+.third_div button {
+  border: none;
+  color: white;
+  background-color: green;
+  padding: 10px 25px;
+  border-radius: 10px;
+}

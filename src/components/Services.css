@@ -1,0 +1,33 @@
+.services {
+  padding: 69px 0px;
+}
+.wrapper_services {
+  display: flex;
+  justify-content: space-around;
+}
+
+.single_div {
+  width: 200px;
+  background: white;
+  padding: 20px 30px;
+  border-radius: 20px;
+  box-shadow: -15px -1px 53px -13px rgba(184, 178, 178, 0.19);
+  -webkit-box-shadow: -15px -1px 53px -13px rgba(184, 178, 178, 0.19);
+  -moz-box-shadow: -15px -1px 53px -13px rgba(184, 178, 178, 0.19);
+}
+.single_div img {
+  width: 50px;
+}
+.readme {
+  display: flex;
+  align-items: center;
+}
+.readme a {
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 15px;
+}
+.readme img {
+  width: 30px;
+  margin-top: 10px;
+}

@@ -1,0 +1,132 @@
+.wrapper_com {
+  padding: 40px 5px;
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper_com img {
+  width: 50%;
+  height: 392px;
+}
+.com_Details {
+  width: 35%;
+  padding: 0px 65px;
+}
+.com_Details a {
+  text-decoration: none;
+  color: blue;
+  font-weight: 500;
+}
+.com_Details h2 {
+  font-size: 27px;
+  font-family: inherit;
+}
+.com_Details p {
+  font-size: 15px;
+  font-family: inherit;
+  color: #434242;
+}
+/*  */
+
+.wrapper_up {
+  width: 608px;
+  margin: auto;
+  text-align: center;
+  padding: 30px 10px;
+}
+.wrapper_up a {
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+}
+.wrapper_up h2 {
+  font-family: inherit;
+  color: #0d0d0c;
+  font-size: 31px;
+  text-transform: capitalize;
+}
+.wrapper_up button {
+  border: none;
+  color: white;
+  background: green;
+  padding: 13px 34px;
+  font-size: 19px;
+  border-radius: 6px;
+}
+/* last */
+.wrapper_last {
+  display: flex;
+  padding: 50px 0px;
+  justify-content: space-between;
+  align-items: center;
+}
+.last_div {
+  width: 50%;
+  text-align: center;
+  padding: 30px 80px;
+}
+.last_div a {
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+}
+.last_div h2 {
+  font-size: 40px;
+}
+.last_div p {
+  font-family: inherit;
+  color: #575756;
+  font-size: 15px;
+}
+.wrapper_last img {
+  width: 55%;
+  height: 420px;
+}
+/* map */
+.wrapper_title {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  padding: 60px 10px;
+}
+.wrapper_title a {
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+}
+.wrapper_title h2 {
+  font-size: 32px;
+  margin: 2px 0px 0px 0px;
+  text-transform: uppercase;
+}
+.map img {
+  width: 100%;
+  height: 391px;
+  margin-top: 20px;
+}
+.wrapper_title p {
+  margin-top: 50px;
+  font-size: 14px;
+  font-family: inherit;
+  color: #4b4747;
+  padding: 0px 22px;
+}
+.wrapper_title button {
+  border: 2px solid black;
+  background: black;
+  padding: 10px 51px;
+  color: white;
+  font-weight: 700;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.social_icons {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+}
+.social_icons img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 9px;
+}
